@@ -1,7 +1,7 @@
 # FORM-IBRF
 Formulário é um documento pré-impresso onde são preenchidos os dados e informações, que permite a formalização das comunicações, o registro e o controle das atividades das organizações, como empresas ou instituições estatais.
 
-![image](https://user-images.githubusercontent.com/122493018/235366816-111c1026-6704-482d-adef-aee25273f2ce.png)
+![image](https://user-images.githubusercontent.com/122493018/235366886-5e882fe1-6053-4c8d-a26a-c8853437d0a4.png)
 
 # Desenvolvimento
 O FORM foi desenvolvido utilizando as seguintes tecnologias:
